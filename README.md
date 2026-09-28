@@ -6,11 +6,10 @@ B.Tech final-year project. A working IDS + IPS that classifies network events wi
 
 
 
-\*\*Safe by design:\*\* it only processes synthetic simulated traffic and uploaded PCAP files on localhost. It never attacks, scans or touches any external system. Prevention actions only change the application's own blocklist.
+Safe by design: it only processes synthetic simulated traffic and uploaded PCAP files on localhost. It never attacks, scans or touches any external system. Prevention actions only change the application's own blocklist.
 
 
-
-\## Abstract
+ Abstract
 
 
 
