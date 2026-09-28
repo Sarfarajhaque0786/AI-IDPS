@@ -1,0 +1,24 @@
+{
+  "algorithm": "RandomForestClassifier",
+  "accuracy": 0.99,
+  "precision": 0.9902439024390245,
+  "recall": 0.99,
+  "f1_score": 0.9899335232668566,
+  "feature_names": [
+    "packet_count",
+    "byte_count",
+    "avg_packet_size",
+    "protocol_encoded",
+    "source_port",
+    "destination_port"
+  ],
+  "classes": [
+    "BENIGN",
+    "Bot",
+    "Brute Force",
+    "DoS",
+    "Probe"
+  ],
+  "train_rows": 1600,
+  "test_rows": 400
+}
